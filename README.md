@@ -1,3 +1,3 @@
 # stepik_de
 repo for DE course from stepic
-commit
+Черных Дмитрий Максимович ронять пром
